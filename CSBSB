@@ -1,0 +1,4 @@
+exit^
+git checkout new
+vi pk.txt
+git stash
